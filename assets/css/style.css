@@ -24,7 +24,11 @@ h2{
 
 #cart{
     background-color: rgb(207, 207, 56);
+    border-radius: 8px;
+    font-weight: bold;
+
 }
+
 
 #scrollToCart{
     color: rgb(207, 207, 56);
